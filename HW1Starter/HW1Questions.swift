@@ -18,6 +18,7 @@ class HW1Questions {
     /// - Returns: An array of file names whose excluded file type length matches `count`.
     func getFileNames(for filenames: [String], withCount count: Int) -> [String] {
         var sexy = filenames
+        var ihatepaarin = "Paarin"
         return []
     }
     
